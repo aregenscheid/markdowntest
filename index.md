@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-HELLO!
+HELLO! This is a test page.  Nothing interesting to see here.
 
 You can use the [editor on GitHub](https://github.com/aregenscheid/markdowntest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
