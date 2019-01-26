@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-HELLO!
+HELLO! This is a test page.  Nothing interesting to see here.
 
 In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
 for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
