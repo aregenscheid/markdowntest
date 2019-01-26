@@ -1,3 +1,9 @@
+---
+title: Github Pages Test"
+date:  2019-01-26
+mathjax: true
+---
+
 ## Welcome to GitHub Pages
 
 HELLO! This is a test page.  Nothing interesting to see here.
